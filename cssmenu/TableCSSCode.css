@@ -1,0 +1,318 @@
+.CSSTableGenerator
+{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    box-shadow: 0px 4px 5px #888888;
+    border: 1px solid #014e9c;
+    -moz-border-radius-bottomleft: 14px;
+    -webkit-border-bottom-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+    -moz-border-radius-bottomright: 14px;
+    -webkit-border-bottom-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    -moz-border-radius-topright: 14px;
+    -webkit-border-top-right-radius: 14px;
+    border-top-right-radius: 14px;
+    -moz-border-radius-topleft: 14px;
+    -webkit-border-top-left-radius: 14px;
+    border-top-left-radius: 14px;
+}
+.CSSTableGenerator table
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.CSSTableGenerator table tr th:first-child
+{
+    -moz-border-radius-topleft: 14px;
+    -webkit-border-top-left-radius: 14px;
+    border-top-left-radius: 14px;
+}
+
+.CSSTableGenerator table tr th:last-child
+{
+    border: 0px solid #014e9c;
+    -moz-border-radius-topright: 14px;
+    -webkit-border-top-right-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.CSSTableGenerator table tr:last-child th:first-child
+{
+    -moz-border-radius-topleft: 14px;
+    -webkit-border-top-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+}
+
+
+
+.CSSTableGenerator tr:last-child td:last-child
+{
+    -moz-border-radius-bottomright: 14px;
+    -webkit-border-bottom-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+.CSSTableGenerator td, th
+{
+    vertical-align: middle;
+    border: 0px solid #014e9c;
+    padding: 3px;
+    font-size: 12pt;
+    font-weight: normal;
+    color: #000000;
+    text-align: center;
+}
+
+.CSSTableGenerator tr th
+{
+    background: -o-linear-gradient(bottom, #187ab9 5%, #014e9c 100%);
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #187ab9), color-stop(1, #014e9c) );
+    background: -moz-linear-gradient( center top, #187ab9 5%, #014e9c 100% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#187ab9", endColorstr="#014e9c");
+    background: -o-linear-gradient(top,#187ab9,014e9c);
+    background-color: #009900;
+    border: 0px solid #014e9c;
+    text-align: center;
+    border-width: 0px 0px 1px 1px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+
+
+.CSSTableGeneratorGrid
+{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    box-shadow: 0px 4px 5px #888888;
+    border: 1px solid #014e9c;
+    -moz-border-radius-bottomleft: 14px;
+    -webkit-border-bottom-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+    -moz-border-radius-bottomright: 14px;
+    -webkit-border-bottom-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    -moz-border-radius-topright: 14px;
+    -webkit-border-top-right-radius: 14px;
+    border-top-right-radius: 14px;
+    -moz-border-radius-topleft: 14px;
+    -webkit-border-top-left-radius: 14px;
+    border-top-left-radius: 14px;
+}
+
+.CSSTableGeneratorGrid table
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.CSSTableGeneratorGrid table tr th:first-child
+{
+    -moz-border-radius-topleft: 14px;
+    -webkit-border-top-left-radius: 14px;
+    border-top-left-radius: 14px;
+}
+
+.CSSTableGeneratorGrid table tr th:last-child
+{
+ 
+    -moz-border-radius-topright: 14px;
+    -webkit-border-top-right-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.CSSTableGeneratorGrid tr:last-child td:first-child
+{
+    -moz-border-radius-bottomleft: 14px;
+    -webkit-border-bottom-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+}
+
+.CSSTableGeneratorGrid tr:last-child td:last-child
+{
+    -moz-border-radius-bottomright: 14px;
+    -webkit-border-bottom-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+
+
+
+.CSSTableGeneratorHeader
+{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    box-shadow: 0px 4px 5px #888888;
+    border: 1px solid #014e9c;
+    -moz-border-radius-bottomleft: 14px;
+    -webkit-border-bottom-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+    -moz-border-radius-bottomright: 14px;
+    -webkit-border-bottom-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    -moz-border-radius-topright: 14px;
+    -webkit-border-top-right-radius: 14px;
+    border-top-right-radius: 14px;
+    -moz-border-radius-topleft: 14px;
+    -webkit-border-top-left-radius: 14px;
+    border-top-left-radius: 14px;
+}
+
+.CSSTableGeneratorHeader table
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.CSSTableGeneratorHeader table tr th:first-child
+{
+    -moz-border-radius-topleft: 14px;
+    -webkit-border-top-left-radius: 14px;
+    border-top-left-radius: 14px;
+}
+
+.CSSTableGeneratorHeader table tr th:last-child
+{
+ 
+    -moz-border-radius-topright: 14px;
+    -webkit-border-top-right-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.CSSTableGeneratorHeader tr:last-child th:first-child
+{
+    -moz-border-radius-bottomleft: 14px;
+    -webkit-border-bottom-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+}
+
+.CSSTableGeneratorHeader tr:last-child th:last-child
+{
+    -moz-border-radius-bottomright: 14px;
+    -webkit-border-bottom-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+
+
+.CSSTableGeneratorHeader tr th
+{
+    background: -o-linear-gradient(bottom, #187ab9 5%, #014e9c 100%);
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #187ab9), color-stop(1, #014e9c) );
+    background: -moz-linear-gradient( center top, #187ab9 5%, #014e9c 100% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#187ab9", endColorstr="#014e9c");
+    background: -o-linear-gradient(top,#187ab9,014e9c);
+    background-color: #009900;
+    border: 0px solid #014e9c;
+    text-align: center;
+    border-width: 0px 0px 1px 1px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+
+
+.CSSTableGeneratorGrid td, th
+{
+    vertical-align: middle;
+    border: 1px solid #014e9c;
+    padding: 3px;
+    font-size: 12pt;
+    font-weight: normal;
+    color: #000000;
+     background-color:White;
+    }
+
+
+.CSSTableGeneratorGrid .selectedRow td
+{
+    vertical-align: middle;
+    border: 1px solid #014e9c;
+    padding: 3px;
+    font-size: 12pt;
+    font-weight: normal;
+    color: #000000;
+    background-color: #CCFFCC;
+}
+.CSSTableGeneratorGrid .FooterRow td
+{
+    
+    vertical-align: middle;
+    border: 1px solid #014e9c;
+    padding: 3px;
+    font-size: 12pt;
+    font-weight: normal;
+    color: #ffffff;
+    background-color: #009900;
+}
+.CSSTableGeneratorGrid tr th
+{
+    background: -o-linear-gradient(bottom, #187ab9 5%, #014e9c 100%);
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #187ab9), color-stop(1, #014e9c) );
+    background: -moz-linear-gradient( center top, #187ab9 5%, #014e9c 100% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#187ab9", endColorstr="#014e9c");
+    background: -o-linear-gradient(top,#187ab9,014e9c);
+    background-color: #009900;
+   
+    text-align: center;
+    border-width: 1px 1px 1px 1px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.CSSTableGeneratorMin
+{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    box-shadow: 2px 2px 5px #888888;
+    border: 1px solid #014e9c;
+    -moz-border-radius-bottomleft: 14px;
+    -webkit-border-bottom-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+    -moz-border-radius-bottomright: 14px;
+    -webkit-border-bottom-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    -moz-border-radius-topright: 14px;
+    -webkit-border-top-right-radius: 14px;
+    border-top-right-radius: 14px;
+    -moz-border-radius-topleft: 14px;
+    -webkit-border-top-left-radius: 14px;
+    border-top-left-radius: 14px;
+}
+.CSSTableGeneratorMin table
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.CSSTableGeneratorMin table tr:first-child td:first-child
+{
+    -moz-border-radius-topleft: 14px;
+    -webkit-border-top-left-radius: 14px;
+    border-top-left-radius: 14px;
+}
+.CSSTableGeneratorMin table tr:first-child td:last-child
+{
+    -moz-border-radius-topright: 14px;
+    -webkit-border-top-right-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.CSSTableGeneratorMin tr:last-child td:first-child
+{
+    -moz-border-radius-bottomleft: 14px;
+    -webkit-border-bottom-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+}

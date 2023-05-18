@@ -1,0 +1,61 @@
+﻿
+.Menu
+{
+    width:100%;
+    height:auto;
+    }
+.MenuDefaultMenuItemStyle
+{
+    
+    background-color: transparent;
+    color: #FFFFFF;
+    padding: 5px;
+    width: 100%;
+    font-size: 12px;
+}
+.MenuDefaultMenuItemStyle td a
+{
+    font-family:Arial Unicode MS ;
+  background-color: transparent;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-transform:uppercase;
+}
+
+.MenuDefaultMenuItemStyle td a hover
+{
+    
+  text-decoration:none;
+  color: #FFFFFF;
+}
+
+.MenuDefaultSelectedStyle
+{
+    background-color: transparent;
+    color: #FFFFFF;
+    padding: 5px;
+    width: 100%;
+}
+
+.MenuDefaultHoverStyle
+{
+    background-color:transparent;
+    color: #FFF !important;
+    padding: 5px;
+    width: 100%;
+}
+
+.MenuDynamicMenuItemStyle
+{
+    z-index:999;
+    background:#014e9c;
+    }
+
+.MenuDefaultHoverStyle td a
+{
+   
+  background-color: transparent;
+    text-decoration: none;
+    color: #C6EA0A !important;
+}
+
